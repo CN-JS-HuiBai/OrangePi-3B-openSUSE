@@ -17,7 +17,7 @@ modprobe sprdwl_ng
 
 3、防火墙服务，OOMD服务异常
 
-该镜像默认使用的root账户的密码为orangepi
+该镜像默认使用的root账户的密码为orangepi(不支持ssh登录，镜像默认启用cockpit，可用root用户登录)
 
 该镜像额外的管理员账户用户名为orangepi密码为orangepi
 
